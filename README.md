@@ -2,5 +2,8 @@
 
 ### Período do evento: 17 a 20 de Janeiro/2022 (Online e ao vivo às 20h)
 
+```
 [>> Página de Inscrição do evento](https://inscricao.imersaoaws.com.br)
+
+```
 
